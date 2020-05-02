@@ -3,7 +3,7 @@ let wakeDog = function(dogName="Byron", dogBreed="poodle") {
   return `Wake ${dogName} the ${dogBreed}`
 }
 
-let leashDog = function(dogName="Boo Radley", dogBreed="Pibble"){
+let leashDog = function(dogName="Byron", dogBreed="poodle"){
   console.log(Leash ${dogName} the ${dogBreed});
   return `Leash ${dogName} the ${dogBreed}`
 }
