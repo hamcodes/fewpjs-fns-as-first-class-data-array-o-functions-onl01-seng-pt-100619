@@ -17,3 +17,5 @@ let throwFrisbee = function(dogName="Byron", dogBreed="poodle") {
   console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
   return `Throw the frisbee for ${dogName} the ${dogBreed}`
 }
+
+let walkHome
