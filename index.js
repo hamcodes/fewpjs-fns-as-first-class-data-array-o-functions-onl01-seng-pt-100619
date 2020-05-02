@@ -9,6 +9,6 @@ let leashDog = function(dogName="Byron", dogBreed="poodle") {
 }
 
 let walkToPark = function(dogName="Byron", dogBreed="poodle") {
-  console.log(` ${dogName} the ${dogBreed}`);
-  return `Leash ${dogName} the ${dogBreed}`
+  console.log(`Walk to the park with ${dogName} the ${dogBreed}`);
+  return `Walk to the park with ${dogName} the ${dogBreed}`
 }
