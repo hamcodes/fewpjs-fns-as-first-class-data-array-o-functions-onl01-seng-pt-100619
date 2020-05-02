@@ -27,3 +27,5 @@ let unleashDog = function(dogName="Byron", dogBreed="poodle") {
   console.log(`Unleash ${dogName} the ${dogBreed}`);
   return `Unleash ${dogName} the ${dogBreed}`
 }
+
+let routine = 
